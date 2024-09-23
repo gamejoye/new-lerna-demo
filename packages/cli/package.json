@@ -1,6 +1,6 @@
 {
   "name": "cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "gamejoye <gamejoye@gmail.com>",
   "homepage": "",
@@ -25,8 +25,8 @@
     "test": "node ./__tests__/cli.test.js"
   },
   "dependencies": {
-    "@gamejoye/a": "^0.0.0",
-    "@gamejoye/b": "^0.0.0",
+    "@gamejoye/a": "^0.0.1",
+    "@gamejoye/b": "^0.0.1",
     "yargs": "^17.7.2"
   },
   "type": "module"
